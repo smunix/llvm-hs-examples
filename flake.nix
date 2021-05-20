@@ -44,7 +44,7 @@
                   (with nf.lib;
                     filter {
                       root = ./.;
-                      exclude = [ "stack.yaml" ];
+                      exclude = [ "stack.yaml" "examples.cabal" ];
                     }) { inherit llvm-hs llvm-hs-pure; }).overrideAttrs
                   (o: { version = "${o.version}-${version ghc}"; });
               };
