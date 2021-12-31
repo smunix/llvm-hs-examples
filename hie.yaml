@@ -1,0 +1,13 @@
+cradle:
+  cabal:
+    - path: "basic/Main.hs"
+      component: "examples:exe:basic"
+
+    - path: "orc/Main.hs"
+      component: "examples:exe:orc"
+
+    - path: "irbuilder/Main.hs"
+      component: "examples:exe:irbuilder"
+
+    - path: "arith/Arith.hs"
+      component: "examples:exe:arith"
