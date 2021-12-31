@@ -221,11 +221,11 @@
     "lhp": {
       "flake": false,
       "locked": {
-        "lastModified": 1640926554,
-        "narHash": "sha256-R3RCT+t3l9Rxo/knKFrowaDQWkk3lEGA0fBJ06iGW2w=",
+        "lastModified": 1640927191,
+        "narHash": "sha256-yjCVfvvBCUPSAYbinvl9bM4mBJc4elb6q1L8Vja9lbc=",
         "owner": "smunix",
         "repo": "llvm-hs-pretty",
-        "rev": "ace3c52ce575b1ba3a677436cc8efafb21fc10a3",
+        "rev": "2538d7bd6a58006c7a766c6346da6511d5d52264",
         "type": "github"
       },
       "original": {
@@ -416,11 +416,11 @@
         "np": "np_2"
       },
       "locked": {
-        "lastModified": 1640926576,
-        "narHash": "sha256-beTARJR8/n6SRkqY1SN1nSo6/Fc0xS7eE5aEhnT5gdo=",
+        "lastModified": 1640927245,
+        "narHash": "sha256-eBCElb37sx9y52+iwm1ti4yV8l3fMtgYMceSJXgY5Tc=",
         "owner": "smunix",
         "repo": "llvm-hs",
-        "rev": "66e3b93c158fc36ec3a73d95b38d3f478a95197f",
+        "rev": "49dbf9d0dccfc768a8d2b30bf64f46ec3a144b16",
         "type": "github"
       },
       "original": {
