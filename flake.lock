@@ -221,11 +221,11 @@
     "lhp": {
       "flake": false,
       "locked": {
-        "lastModified": 1634299651,
-        "narHash": "sha256-EvSI03u8W3khNvh+nlHAIp/fFSCZk+jYk2b/D4hFC08=",
+        "lastModified": 1640926554,
+        "narHash": "sha256-R3RCT+t3l9Rxo/knKFrowaDQWkk3lEGA0fBJ06iGW2w=",
         "owner": "smunix",
         "repo": "llvm-hs-pretty",
-        "rev": "990bb6981f6214d9c1bbf46fd9e9ce5596d3bf30",
+        "rev": "ace3c52ce575b1ba3a677436cc8efafb21fc10a3",
         "type": "github"
       },
       "original": {
@@ -345,11 +345,11 @@
     },
     "np_2": {
       "locked": {
-        "lastModified": 1640822900,
-        "narHash": "sha256-H44cm4EYvJOLOzw+4aTEgoVV1R+NmZ+S/++0KSKPICc=",
+        "lastModified": 1640909298,
+        "narHash": "sha256-0YoyFfvPQopwzB8dwPw++DA9lRrdOBfbMgSAXYhfhlY=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "4884725b151701282e8c539efc13cfe67dbb3add",
+        "rev": "1537d1a8989e094415bb8825a03c5bf2cd26f063",
         "type": "github"
       },
       "original": {
@@ -416,11 +416,11 @@
         "np": "np_2"
       },
       "locked": {
-        "lastModified": 1640925722,
-        "narHash": "sha256-juF4MoKwnv+s9iIH1CVVKUlscmt8sRiaNAiIh570MM0=",
+        "lastModified": 1640926576,
+        "narHash": "sha256-beTARJR8/n6SRkqY1SN1nSo6/Fc0xS7eE5aEhnT5gdo=",
         "owner": "smunix",
         "repo": "llvm-hs",
-        "rev": "fdde91d4600498a11b7f08a982b3c82fef04423d",
+        "rev": "66e3b93c158fc36ec3a73d95b38d3f478a95197f",
         "type": "github"
       },
       "original": {
